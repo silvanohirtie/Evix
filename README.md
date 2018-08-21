@@ -7,33 +7,33 @@ everything in everylanguage.
 Commands:
 
 Admin
-*kick @user [reason]"
-*info @user"
-*announce [description]
+*kick @user [reason]--
+*info @user--
+*announce [description]--
 
 Utilities
-*randomnumber"
-*botinfo"
-*serverinfo"
-*ip [host]
-*poll [description]
+*randomnumber--
+*botinfo--
+*serverinfo--
+*ip [host]--
+*poll [description]--
 
 Funny
-*ask [text]
-*russianroulette
+*ask [text]--
+*russianroulette--
 
 Musical
 *join
-*play [url]
-*volume [value]
-*queue
-*skip
-*pause
-*resume
-*playing
+*play [url]--
+*volume [value]--
+*queue--
+*skip--
+*pause--
+*resume--
+*playing--
 
 Google
-*translate [language] [Text]
-*search [Text]
+*translate [language] [Text]--
+*search [Text]--
 
 All open source, you can use it, edit it and sell it.
