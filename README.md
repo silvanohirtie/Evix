@@ -5,14 +5,14 @@ API Used: google
 
 ## Issues  
 -Youtube streamer has some problems with the commands play and stop.  
--Google commands can be used for NSFW searche.
+-Google commands can be used for NSFW search.
   
 **This repository will not be updated anymore  
 I stopped working at this project.**  
 
 ## What i've learned    
--Using API's in Python
--Loading external .py files in the main one and make them work  
+-How to use API's in Python
+-How to load external `.py` files in the main one and make them work  
 
 **Open Source, Free to use.**
 
