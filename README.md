@@ -11,10 +11,12 @@ API Used: google
 I stopped working at this project.** 
 
 ## API Used
--Google (search)  -Google (translator)
+-Google (search)  
+-Google (translator)
 
 ## What i've learned    
--How to use API's in Python  -How to load external `.py` files in the main one and make them work  
+-How to use API's in Python  
+-How to load external `.py` files in the main one and make them work  
 
 **Open Source, Free to use.**
 
