@@ -8,11 +8,13 @@ API Used: google
 -Google commands can be used for NSFW search.
   
 **This repository will not be updated anymore  
-I stopped working at this project.**  
+I stopped working at this project.** 
+
+## API Used
+-Google (search)  -Google (translator)
 
 ## What i've learned    
--How to use API's in Python
--How to load external `.py` files in the main one and make them work  
+-How to use API's in Python  -How to load external `.py` files in the main one and make them work  
 
 **Open Source, Free to use.**
 
