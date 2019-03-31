@@ -1,7 +1,6 @@
 # Evix Discord bot
 Evix is a discord bot developed by me.  
-It is coded in python and has been developed in 5 days.  
-API Used: google  
+It is coded in python and has been developed in 5 days.    
 
 ## Issues  
 -Youtube streamer has some problems with the commands play and stop.  
